@@ -1,0 +1,9 @@
+
+# Comando de compilacion
+cd E:\TRABAJO\Proyectos\Youtuve_View_2\yt_outlier_lab
+.\build.bat
+
+
+# comando para el zip
+cd E:\TRABAJO\Proyectos\Youtuve_View_2\yt_outlier_lab
+Compress-Archive -Path "build\exe.win-amd64-3.11\*" -DestinationPath "YT-Outlier-Lab-Portable.zip" -Force
