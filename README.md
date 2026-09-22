@@ -4,7 +4,7 @@
 
 ### Herramienta profesional de análisis de outliers y descubrimiento de oportunidades en YouTube
 
-[![License: BSL 1.1](https://img.shields.io/badge/License-BSL_1.1-blue.svg)](https://mariadb.com/bsl11/)
+[![License: All Rights Reserved](https://img.shields.io/badge/License-All_Rights_Reserved-red.svg)](./LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Dash](https://img.shields.io/badge/Dash-2.14+-3F4F75?logo=plotly&logoColor=white)](https://dash.plotly.com/)
 [![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows&logoColor=white)](https://www.microsoft.com/windows)
@@ -21,6 +21,8 @@
 **YT Outlier Lab** es una herramienta de análisis de datos de YouTube diseñada para creadores de contenido, analistas y marketers que buscan identificar videos con rendimiento excepcional (outliers) y descubrir oportunidades de contenido basadas en datos reales.
 
 La aplicación utiliza la **YouTube Data API v3** para recopilar datos de videos y canales, aplica algoritmos estadísticos para detectar anomalías de rendimiento, y presenta los resultados en un dashboard interactivo con filtros avanzados.
+
+> 🔒 **Este es un proyecto propietario.** El código fuente se comparte únicamente con fines de portafolio y demostración. Consulta la sección de [Licencia](#-licencia) para más detalles.
 
 ---
 
@@ -86,13 +88,16 @@ La aplicación utiliza la **YouTube Data API v3** para recopilar datos de videos
 
 ## 📥 Instalación
 
+> ⚠️ **Importante:** El uso de este software requiere autorización del titular de los derechos. Consulta la sección de [Licencia](#-licencia) antes de continuar.
+
 ### Requisitos previos
 
 - **Windows 10/11**
 - **Python 3.11 o superior** ([descargar](https://www.python.org/downloads/))
 - **API Key de YouTube Data API v3** ([obtener aquí](https://console.cloud.google.com/apis/credentials))
+- **Autorización de uso** del titular de los derechos
 
-### Opción 1: Desde el código fuente
+### Desde el código fuente
 
 ```bash
 # 1. Clonar el repositorio
